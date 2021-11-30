@@ -2,7 +2,7 @@
   "name": "proyectoapi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://melvin121.github.io/api",
+  "homepage": "http://melvin121.github.io/api.github.io",
   "dependencies": {
     "@craco/craco": "^6.4.1",
     "@heroicons/react": "^1.0.5",
