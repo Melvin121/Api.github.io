@@ -36,16 +36,7 @@ const CreateForm = () => {
                 <input className="text-gray-800 rounded-full px-2 py-1 my-1" type="text" name="image" id="image" />
             </div>
             <div className="flex flex-row text-sm items-center justify-center">
-                <div className="flex text-sm w-1/3">
-                    <label htmlFor="active">Activo</label>
-                    <input
-                        className="rounded-lg text-blue-500 w-5 h-5 mx-2 focus:ring-blue-400 focus:ring-opacity-25 border border-gray-300"
-                        type="checkbox"
-                        name="active"
-                        id="active"
-                    />
-                </div>
-                <button type="submit" className="bg-blue-500 w-2/3 rounded-2xl text-center flex py-1 justify-center items-center font-bold">
+                <button type="submit" className="bg-purple-800 w-2/3 rounded-2xl text-center flex py-1 justify-center items-center font-bold">
                     <CheckCircleIcon className="mr-2 h-5 w-5" />
                     Publicar
                 </button>
